@@ -12,16 +12,26 @@ dist
 dist-ssr
 *.local
 
-# Editor directories and files
-.vscode/*
-!.vscode/extensions.json
-.idea
+# Node
+node_modules/
+
+# Build
+dist/
+
+# Vite
+.vite/
+
+# Environment
+.env
+
+# macOS
 .DS_Store
-*.suo
-*.ntvs*
-*.njsproj
-*.sln
-*.sw?
+
+# Editor
+.vscode/
+
+# Coverage
+coverage/
 
 # Environment variables
 .env

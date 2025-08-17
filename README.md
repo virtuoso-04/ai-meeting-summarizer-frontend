@@ -65,3 +65,32 @@ This frontend is designed to be deployed to platforms like Netlify, Vercel, GitH
 3. Set the publish directory to `dist`
 4. Configure environment variables
 5. Deploy
+
+# ai-meeting-summarizer-frontend
+
+Frontend for an AI meeting summarizer built with Vite and React.
+
+## Quick start
+
+1. Install dependencies
+
+   ```bash
+   npm install
+   ```
+
+2. Run dev server
+
+   ```bash
+   npm run dev
+   ```
+
+3. Build
+
+   ```bash
+   npm run build
+   ```
+
+## Notes
+
+- This repository was pushed from a local project directory.
+- See `package.json` for available scripts.
